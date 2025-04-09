@@ -6,7 +6,7 @@ Una sencilla pero elegante calculadora hecha con HTML, CSS y JavaScript. Cuenta 
 
 ## 🌐 Vista previa
 
-![Calculadora Preview]() <!-- Puedes cambiar o eliminar esta línea si no tienes una imagen de vista previa -->
+![Calculadora Preview](calculadora.png) <!-- Puedes cambiar o eliminar esta línea si no tienes una imagen de vista previa -->
 
 ---
 
