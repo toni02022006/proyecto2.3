@@ -1,16 +1,22 @@
 # 🧮 Calculadora Web
-
 Una sencilla pero elegante calculadora hecha con HTML, CSS y JavaScript. Cuenta con una interfaz moderna con soporte para operaciones básicas como suma, resta, multiplicación, división, y manejo de decimales.
 
 ---
 
-## 🌐 Vista previa
+## 🌐 Vista Previa del proyecto Calculadora
 
-![Calculadora Preview](calculadora.png) <!-- Puedes cambiar o eliminar esta línea si no tienes una imagen de vista previa -->
+![Calculadora Preview](imgCalculadora.png) <!-- Puedes cambiar o eliminar esta línea si no tienes una imagen de vista previa -->
 
 ---
 
 ## 📁 Estructura del Proyecto
+text
+Proyecto2.1/           ← Carpeta 
+│
+├── README.md          ← Documentación general del proyecto
+├── index.html         ← Estructura de la calculadora
+├── estilos.css        ← Estilos visuales, colores, modo oscuro
+└── script.js          ← Funciones y lógica de los botones
 
 
 ---
@@ -29,3 +35,9 @@ Una sencilla pero elegante calculadora hecha con HTML, CSS y JavaScript. Cuenta 
 
 ---
 
+## 🛠 Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript
+
+---
