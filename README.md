@@ -10,7 +10,7 @@ Una sencilla pero elegante calculadora hecha con HTML, CSS y JavaScript. Cuenta 
 ---
 
 ## 📁 Estructura del Proyecto
-text
+```text
 Proyecto2.1/           ← Carpeta 
 
 │
@@ -18,7 +18,7 @@ Proyecto2.1/           ← Carpeta
 ├── index.html         ← Estructura de la calculadora
 ├── estilos.css        ← Estilos visuales, colores, modo oscuro
 └── script.js          ← Funciones y lógica de los botones
-
+```
 
 ---
 
