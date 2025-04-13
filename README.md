@@ -12,6 +12,7 @@ Una sencilla pero elegante calculadora hecha con HTML, CSS y JavaScript. Cuenta 
 ## 📁 Estructura del Proyecto
 text
 Proyecto2.1/           ← Carpeta 
+
 │
 ├── README.md          ← Documentación general del proyecto
 ├── index.html         ← Estructura de la calculadora
